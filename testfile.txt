@@ -1,2 +1,3 @@
 Learning git and i have added a file
 Inserted second line the file
+Inserted third line in the file
